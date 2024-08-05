@@ -1,7 +1,7 @@
 ## Olá! eu sou Murilo 👋
 
 <div tyle="display: inline_block"></br>
-  <a src="https://www.instagram.com/murilojafeitosa/" target="_blank">
+  <a href="https://www.instagram.com/murilojafeitosa/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" text_align="center">
   </a>
   <a src="https://discord.gg/murilin4340/" target="_blank">
