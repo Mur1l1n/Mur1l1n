@@ -1,15 +1,16 @@
 ## Olá! eu sou Murilo 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/murilojafeitosa/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://[instagram.com/murilojafeitosa/](https://discord.com/channels/@me))
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://https://mail.google.com/mail/u/0/#inbox)
+<divs tyle="display: inline_block"></br>
+  <a src="https://instagram.com/murilojafeitosa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" text_align="center"></a>
+  <a src="https://discord.gg/murilin4340/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" text_align="center"></a>
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilo&show_icons=true&theme=dark)
 
 ## Tecnologias
 <div style="display: inline_block"></br>
-  <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div></br>
 
 Sou apaixonado pela programação e por tecnologia em geral hehe
